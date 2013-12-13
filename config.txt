@@ -1,0 +1,10 @@
+#maxDepth
+15
+#numRandomtests
+5
+#counterThreshold
+5
+#numTrees
+2
+#numEpochs
+1
